@@ -4,6 +4,7 @@ A minimal operating system for the RISC-V architecture written in C.
 
 ### Features
 - UART Driver Support
+- Shell
 ### Requirements
 
 * **Newlib Cross-Compiler**: Install via your system package manager, or clone and compile it from source (compiling from source is easier and more straightforward):
